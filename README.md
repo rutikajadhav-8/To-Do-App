@@ -14,4 +14,4 @@ A simple and clean ToDo App built using MERN Stack with Tailwind CSS. Users can 
 
 ## Screenshots
 ###Homepage
-![Homepage](screenshots/HomePage.png)
+(screenshots/HomePage.png)
