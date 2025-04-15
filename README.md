@@ -19,3 +19,7 @@ A simple and clean ToDo App built using MERN Stack with Tailwind CSS. Users can 
 - **Add New Task page:**
 ![addnewtask](Screenshots/AddNewTask.png.png)
 
+## Connect with me
+[![LinkedIn] (https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rutika-jadhav-38bb6a2ab)
+
+
