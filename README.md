@@ -12,4 +12,6 @@ A simple and clean ToDo App built using MERN Stack with Tailwind CSS. Users can 
 - **Backend:** Node.js, Express.js
 -  **Database:** MongoDB (Mongoose)
 
+## Screenshots
+![homepage](Screenshots/HomePage.png)
 
