@@ -1,16 +1,31 @@
 # ToDo App 
-A simple and clean ToDo App built using MERN Stack with Tailwind CSS. Users can add, delete and mark tasks as complete.
+A full-stack To-Do Management Application built with React (frontend) and Spring Boot (backend), connected to a MySQL database.
+
+---
 
 ## Features
-- Add new tasks
+- Add new tasks with name and date/time
+- Mark tasks as complete / incomplete (toggle)
 - Delete tasks
-- Mark tasks as completed
-- Responsive UI with Tailwind CSS
+- Store tasks persistently in MySQL
+- Clean UI built with Tailwind CSS
+
+---
 
 ## Tech Stack 
-- **Frontend:** React.js(with vite), Tailwind CSS, Axios
-- **Backend:** Node.js, Express.js
--  **Database:** MongoDB (Mongoose)
+ **Frontend:**
+  - React
+  - Tailwind CSS
+  - Axios (for API calls)
+  - React Router
+
+ **Backend**
+  - Spring Boot
+  - Spring Data JPA (Hibernate)
+  - MySQL
+  - REST API
+
+---
 
 ## Screenshots
 - **Homepage:**
